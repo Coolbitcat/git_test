@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 apple
 ball
+=======
+Hello World
+hello_1
+>>>>>>> 5f151082b189023210615550b42e86badc5a1773
